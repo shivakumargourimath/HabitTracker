@@ -229,16 +229,6 @@ export const lightTheme = {
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Expo team for the excellent development platform
-- React Native community for continuous improvements
-- Contributors and users who help make this app better
 
 ---
-
-**Built with ❤️ using React Native and Expo**
